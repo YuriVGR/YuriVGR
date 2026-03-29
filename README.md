@@ -6,13 +6,6 @@
 
 ---
 
-### What I'm Building
-I am currently architecting a **Voice Chat Platform** (aimed at TTRPG enjoyers or caompanies who plan to implement it for themselves) and currently host it on local **PowerEdge T430** hardware. My goal is to create high-performance, private digital spaces that don't rely on big-tech data collection.
-
-* **Backend:** High-concurrency logic with **Rust (Axum + Tokio)**.
-* **State:** Distributed session and presence management via **Redis Clusters**.
-* **Security:** Implementing privacy-by-design to stay ahead of the evolving digital legal landscape (Lei Felca/LGPD).
-
 ### Tech Stack
 
 **Core Systems**
