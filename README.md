@@ -10,7 +10,7 @@
 
 **Core Systems**
 
-[![](https://skillicons.dev/icons?i=rust,java,bash,arch,neovim)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,lua,java,bash,arch,neovim)](https://skillicons.dev)
 
 **Frontend & Design**
 
