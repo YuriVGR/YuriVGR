@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hi, I'm Yuri</h2>
   <p><b>Software Engineer | Focus on Rust & Distributed Infrastructure</b></p>
-  <p>Privacy Advocate | Sergipe, Brazil</p>
+  <p>Sergipe, Brazil</p>
 </div>
 
 ---
