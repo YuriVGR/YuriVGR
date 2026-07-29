@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi, I'm Yuri</h2>
-  <p><b>Systems Engineer | Focus on Rust & Distributed Infrastructure</b></p>
+  <p><b>Software Engineer | Focus on Rust & Distributed Infrastructure</b></p>
   <p>Privacy Advocate | Sergipe, Brazil</p>
 </div>
 
